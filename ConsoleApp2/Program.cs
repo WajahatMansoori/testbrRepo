@@ -10,6 +10,11 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            
+        }
+        public void Eat()
+        {
+            Console.WriteLine("Eat");
         }
     }
 }
